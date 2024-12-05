@@ -14,6 +14,8 @@ Designing and implementing a **scalable, cloud-based data pipeline** for seamles
    - **Stored** the processed data in **AWS S3** and ran analytics with **AWS Athena**.  
 
 ---
+![Spotify Data Pipeline](images/spotify_pipeline.png "The Spotify Data Pipeline")
+
 
 ## 🛠️ **Tools and Technologies Used**  
 
