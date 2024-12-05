@@ -32,4 +32,4 @@ Designing and implementing a **scalable, cloud-based data pipeline** for seamles
 
 ---  
 
-**🚀 Explore the pipeline and adapt it to your projects! Happy coding!**
+
